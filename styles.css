@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image:url('amur_leopard.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  vertical-align: middle;
+  text-align: center;
+  color: white;
+  font: 7vw "Zilla Slab", sans-serif;
+  text-shadow: 0 0 1.5vw black;
+}
+
+strong {
+  color: red;
+}
